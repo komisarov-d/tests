@@ -11,9 +11,9 @@
 
 // const request = supertest(app);
 
-describe("/frontend", () => {
+describe("/booking-room Endpoint", () => {
   // const registerEndpoint = getApiV1Route(AuthRoute.Register);
-  describe("front test", () => {
+  describe("get /booking-room Endpoint", () => {
     test("should return ?", async () => {
       // const payload = getValidCreateUserPayload('testMail@gmail.com');
       // const response = await request.post(registerEndpoint).send(payload);

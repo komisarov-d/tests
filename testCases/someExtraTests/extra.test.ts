@@ -11,10 +11,10 @@
 
 // const request = supertest(app);
 
-describe("/frontend", () => {
+describe("extra test", () => {
   // const registerEndpoint = getApiV1Route(AuthRoute.Register);
-  describe("front test", () => {
-    test("should return ?", async () => {
+  describe("extra test", () => {
+    test("extra test", async () => {
       // const payload = getValidCreateUserPayload('testMail@gmail.com');
       // const response = await request.post(registerEndpoint).send(payload);
       // expect(response.status).toEqual(ResponseStatusCode.Ok);
