@@ -1,4 +1,5 @@
 import supertest from "supertest";
+// @ts-ignore
 import app from "../../../homework/backend/src/app";
 
 import { ResponseStatusCode } from "../../common/enums/ResponseStatusCode";
