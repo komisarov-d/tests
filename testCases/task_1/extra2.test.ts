@@ -36,7 +36,7 @@ test("Task 1 test #4 extra", async () => {
   // const response = await request.post(registerEndpoint).send(payload);
   // expect(response.status).toEqual(ResponseStatusCode.Ok);
 });
-test("Task 1 test #5 extra", async () => {
+test("Task 1 test #5 extra error", async () => {
   // const payload = getValidCreateUserPayload('testMail@gmail.com');
   // const response = await request.post(registerEndpoint).send(payload);
   const a = 1;
