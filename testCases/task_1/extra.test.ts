@@ -14,17 +14,17 @@
 describe("Task 1", () => {
   // const registerEndpoint = getApiV1Route(AuthRoute.Register);
   describe("Task 1 description", () => {
-    test("Task 1 test #1", async () => {
+    test("Task 1 test #6", async () => {
       // const payload = getValidCreateUserPayload('testMail@gmail.com');
       // const response = await request.post(registerEndpoint).send(payload);
       // expect(response.status).toEqual(ResponseStatusCode.Ok);
     });
-    test("Task 1 test #2", async () => {
+    test("Task 1 test #7", async () => {
       // const payload = getValidCreateUserPayload('testMail@gmail.com');
       // const response = await request.post(registerEndpoint).send(payload);
       // expect(response.status).toEqual(ResponseStatusCode.Ok);
     });
-    test("Task 1 test #3", async () => {
+    test("Task 1 test #8", async () => {
       // const payload = getValidCreateUserPayload('testMail@gmail.com');
       // const response = await request.post(registerEndpoint).send(payload);
       // expect(response.status).toEqual(ResponseStatusCode.Ok);
